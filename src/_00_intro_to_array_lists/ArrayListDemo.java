@@ -13,6 +13,7 @@ public class ArrayListDemo {
 		names.add("Sara");
 		names.add("Fred");
 		names.add("Marc");
+		names.add("jimby");
 		
 		System.out.println("Here's an ArrayList of Strings:\n");
 		//Iterating through our list with a standard for-loop
